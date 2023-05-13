@@ -1,5 +1,5 @@
-###👋 Hi there! 
-- I'm Mridul Rao, with a passion for machine learning and deep learning. My focus area is natural language processing, and I'm open to collaborating with like-minded individuals in the same domain. 
+### 👋 Hi there! 
+I'm Mridul Rao, with a passion for machine learning and deep learning. My focus area is natural language processing, and I'm open to collaborating with like-minded individuals in the same domain. 
 
 ## 🧐 About Me
 - 🔭 I’m currently working on low resource lanaguage translation
