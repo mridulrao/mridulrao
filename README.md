@@ -6,6 +6,10 @@ I'm Mridul Rao, with a passion for machine learning and deep learning. My focus 
 - 🌱 I’m currently learning prompt engineering and experimenting with transformers
 - 👯 I’m looking to collaborate on NLP, Chatbots, fine-tuning LLMs, Translation Gummy
 
+## 📚 Reading
+- Advanced Deep Learning with Python (Ivan Vasilev)
+- Natural Language Processing In Action (Hobson Lane et al.)
+
 ## 🚀 Tech Stack
 - Programming languages: Python, Javascript, C/C++, HTML, CSS
 - +2 years of experience in: Tensorflow, PyTorch
