@@ -2,25 +2,26 @@
 I'm Mridul Rao, with a passion for machine learning and deep learning. My focus area is natural language processing, and I'm open to collaborating with like-minded individuals in the same domain. 
 
 ## 🧐 About Me
-- 🔭 I’m currently working on low resource lanaguage translation
-- 🌱 I’m currently learning prompt engineering and experimenting with transformers
+- 🔭 I’m currently working on low-resource lanaguage translation, implementing Explainable AI on language models
+- 🌱 I’m currently experimenting with large language models, vector databases and RAG models
+- 🔖 Writing medium articles focusing on the implementation of concepts related to NLP
 - 👯 I’m looking to collaborate on NLP, Chatbots, fine-tuning LLMs, Translation Gummy
 
-## 📚 Reading
-- Advanced Deep Learning with Python (Ivan Vasilev)
-- Natural Language Processing In Action (Hobson Lane et al.)
+## 📚 Qualification
+- University of Southern California, MSCS(AI)
+- Graphic Era (Deemed to be University), BTech(CSE)
 
 ## 🚀 Tech Stack
 - Programming languages: Python, Javascript, C/C++, HTML, CSS
-- +2 years of experience in: Tensorflow, PyTorch
+- +2 years of experience in Tensorflow, PyTorch
 - Frameworks for development/coding: Django, Heroku, Github
-- Preffered platforms: AWS, Heroku, Azure
+- Preferred platforms: AWS, Heroku, Azure
 
 ## 🔖 Publications
-- Sentiment Analysis of user-generated data using CNN-BiLSTM model (Accepted in ICASIS 2023)
+- ICASIS 2023- Sentiment Analysis of user-generated data using CNN-BiLSTM model
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/mridul-rao-86b542190/
-- Email: mridulrao674385@gmail.com
+- Email: mridulra@usc.edu
 
-Feel free to reach out to me if you want to chat about machine learning, deep learning, natural language processing, or collaborate on a project together!
+Feel free to reach out to me if you want to chat about machine learning, deep learning, or natural language processing, or collaborate on a project together!
