@@ -1,10 +1,10 @@
 ### 👋 Hi there! 
-I'm Mridul Rao, with a passion for machine learning and deep learning. My focus area is natural language processing, and I'm open to collaborating with like-minded individuals in the same domain. 
+I'm Mridul Rao, with a passion for machine learning and deep learning. My focus area is LLMs, HCI, NLP, DL and I'm open to collaborating with like-minded individuals in the same domain. 
 
 ## 🧐 About Me
-- 🔭 I’m currently working on low-resource lanaguage translation, implementing Explainable AI on language models
+- 🔭 I’m currently working on low-resource language translation, implementing Explainable AI on language models
 - 🌱 I’m currently experimenting with large language models, vector databases and RAG models
-- 🔖 Writing medium articles focusing on the implementation of concepts related to NLP
+- 🔖 Writing medium articles focusing on the implementation of concepts related to NLP environment setups 
 - 👯 I’m looking to collaborate on NLP, Chatbots, fine-tuning LLMs, Translation Gummy
 
 ## 📚 Qualification
