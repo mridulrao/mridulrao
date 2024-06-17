@@ -8,7 +8,7 @@ I'm Mridul Rao, with a passion for machine learning and deep learning. My focus 
 - 👯 I’m looking to collaborate on NLP, Chatbots, fine-tuning LLMs, Translation Gummy
 
 ## 📚 Qualification
-- University of Southern California, MSCS(AI)
+- University of Southern California, MSCS
 - Graphic Era (Deemed to be University), BTech(CSE)
 
 ## 🚀 Tech Stack
