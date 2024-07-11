@@ -17,11 +17,16 @@ I'm Mridul Rao, with a passion for machine learning and deep learning. My focus 
 - Frameworks for development/coding: Django, Heroku, Github
 - Preferred platforms: AWS, Heroku, Azure
 
-## 🔖 Publications
+## 🔖 Publications and Writings
 - ICASIS 2023- Sentiment Analysis of user-generated data using CNN-BiLSTM model
+  
+  MEDIUM ARTICLES
+- Prompt Engineering - https://medium.com/@mridulrao674385/prompt-engineering-101-b65d207425bf
+- Self-Supervised / Autoregressive - https://medium.com/@mridulrao674385/the-difference-between-self-supervised-and-autoregressive-learning-b7733ed9dedd
+- MPS Device - https://medium.com/@mridulrao674385/language-modelling-on-mps-using-pytorch-044a2dfd9f62
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/mridul-rao-86b542190/
 - Email: mridulra@usc.edu
 
-Feel free to reach out to me if you want to chat about machine learning, deep learning, or natural language processing, or collaborate on a project together!
+Feel free to reach out if you want to chat about machine learning, deep learning, or natural language processing, or collaborate on a project together!
