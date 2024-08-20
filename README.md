@@ -24,6 +24,7 @@ I'm Mridul Rao, with a passion for machine learning and deep learning. My focus 
 - Prompt Engineering - https://medium.com/@mridulrao674385/prompt-engineering-101-b65d207425bf
 - Self-Supervised / Autoregressive - https://medium.com/@mridulrao674385/the-difference-between-self-supervised-and-autoregressive-learning-b7733ed9dedd
 - MPS Device - https://medium.com/@mridulrao674385/language-modelling-on-mps-using-pytorch-044a2dfd9f62
+- How to trust your AI - https://medium.com/@mridulrao674385/explainable-ai-how-to-trust-your-ai-model-72e39e293fa1
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/mridul-rao-86b542190/
