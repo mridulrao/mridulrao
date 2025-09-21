@@ -21,11 +21,13 @@ I'm **Mridul Rao**, an AI Engineer passionate about building **AI-powered voice 
 
 ## 🚀 Tech Stack  
 - **Languages:** Python, Java, JavaScript, C/C++, SQL, HTML/CSS  
-- **AI/ML/DL:** PyTorch, TensorFlow, Transformers, LangChain, vLLM  
+- **AI/ML/DL:** PyTorch, TensorFlow, Transformers, LangChain, vLLM, Hugging Face, TRL, Stable-Baseline3, LlamaIndex, Langchain, OpenAI API
 - **Backend:** FastAPI, Node.js  
 - **Databases:** MySQL, PostgreSQL, LanceDB, Redis  
 - **Platforms:** AWS, Azure, Render, Docker, Runpod, Jetson Orin  
-- **Other:** React, Tailwind, LiveKit, Twilio, Genesys, Amazon Connect  
+- **Other:** React, Tailwind, LiveKit, Twilio, Genesys, Amazon Connect
+- **WebFrameworks / Hosting:** Django, Flask, Linode AWS, EC2, GCP , Docker, Kubernetes
+- **Large Language Model / Generative AI:** SFT, PEFT, KV-Chaching
 
 ---
 
