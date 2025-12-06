@@ -58,7 +58,7 @@ NGINX, reverse proxies, TLS, production environments
 ---
 
 ## 📫 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/mridul-rao-86b542190/  
+- **LinkedIn:** https://www.linkedin.com/in/mridul-rao/ 
 - **Email:** mridulrao370@gmail.com  
 
 ---
