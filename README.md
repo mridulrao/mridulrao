@@ -1,49 +1,67 @@
-### 👋 Hi there!  
-I'm **Mridul Rao**, an AI Engineer passionate about building **AI-powered voice and chat agents**, **LLMs**, and scalable backend systems. I enjoy working at the intersection of **machine learning, system design, and human-computer interaction** — creating tools that are both technically strong and practically useful.  
+# 👋 Hey, I'm **Mridul Rao**
+
+I'm an **AI Engineer** building real-time **voice-based AI agents**, advanced **LLM systems**, and **production-grade backend infrastructure**.  
+My work sits at the intersection of **machine learning, telephony (SIP/RTCP), scalable systems, and human–AI interaction** — designing agents that are fast, reliable, and actually useful in real-world environments.
 
 ---
 
-## 🧐 About Me  
-- 🔭 Currently building **voice-based AI agents** for IT support (integrating **telephony, SIP, RAG systems, ITSM, and sub-second latency pipelines**)  
-- ⚡ Exploring **function calling, multi-agent architectures, observability, and memory systems** for reliable agents  
-- 🌱 Experimenting with **LoRA fine-tuning on edge devices**, **quantization with ONNX**, and **vLLM for RAG workloads**  
-- 🛠️ Learning and building with **Spring Boot microservices** (authentication, JWT, rate limiting, batch jobs) and **React frontends**  
-- ✍️ Writing and sharing about **prompt design, explainability, and production challenges with LLMs**  
-- 👯 Open to collaborating on **LLMs, voice/chat agents, scalable AI backends, and agent reliability frameworks**  
+## 🧠 What I’m Working On  
+- 🎙️ Building **real-time voice AI agents** (SIP → STT → LLM → TTS pipelines) with sub-second latency  
+- 🤖 Designing **reliable agent architectures** with function calling, multi-agent coordination, memory, RAG, and error recovery  
+- ⚡ Deploying and optimizing **SLMs (4B–8B)** using vLLM on GPUs for production workloads  
+- 📞 Integrating with **telephony platforms** — LiveKit, BYOC SIP, websockets, webRTC, PBX/SBC — for scalable call automation  
+- 🧩 Experimenting with **LoRA fine-tuning**, **quantization (ONNX, AWQ)**, and **edge inference (Jetson Orin)**  
+- 🔍 Exploring observability for agents: structured logs, tracing, audio metrics, and latency debugging  
+- ✍️ Writing about AI engineering, model deployment, and building practical agent systems  
 
 ---
 
-## 📚 Qualification  
-- 🎓 **University of Southern California (USC)** – MS in Computer Science  
-- 🎓 **Graphic Era University** – BTech in Computer Science  
+## 🧩 Technical Stack  
+
+### **Languages**
+Python • JavaScript • SQL • C/C++
+
+### **AI / ML / LLM Infra**
+PyTorch • Transformers • vLLM • ONNX • Hugging Face • TRL • LoRA/PEFT • KV-Caching  
+RAG systems • LlamaIndex • LanceDB • BM25 + Vector Hybrid Search  
+
+### **Backend & Systems**
+FastAPI • Node.js  
+Redis • PostgreSQL • MySQL  
+
+### **Voice / Telephony / Realtime**
+LiveKit • WebRTC • Twilio • Genesys • Exotel  
+Noise suppression • VAD • SIP signaling • RTP pipelines  
+
+### **DevOps & Deployment**
+Docker • Kubernetes • AWS (EC2, S3, EKS 🤏) • Azure • RunPod  
+Jetson Orin for edge inference  
+NGINX, reverse proxies, TLS, production environments  
 
 ---
 
-## 🚀 Tech Stack  
-- **Languages:** Python, Java, JavaScript, C/C++, SQL, HTML/CSS  
-- **AI/ML/DL:** PyTorch, TensorFlow, Transformers, LangChain, vLLM, Hugging Face, TRL, Stable-Baseline3, LlamaIndex, Langchain, OpenAI API
-- **Backend:** FastAPI, Node.js  
-- **Databases:** MySQL, PostgreSQL, LanceDB, Redis  
-- **Platforms:** AWS, Azure, Render, Docker, Runpod, Jetson Orin  
-- **Other:** React, Tailwind, LiveKit, Twilio, Genesys, Amazon Connect
-- **WebFrameworks / Hosting:** Django, Flask, Linode AWS, EC2, GCP , Docker, Kubernetes
-- **Large Language Model / Generative AI:** SFT, PEFT, KV-Chaching
+## 🎓 Education  
+- **MS in Computer Science**, University of Southern California (USC)  
+- **BTech in Computer Science**, Graphic Era University  
 
 ---
 
-## 🔖 Publications and Writing  
-- 📄 **ICASIS 2023** – *Sentiment Analysis of User-Generated Data using CNN-BiLSTM Model*  
-
-**Medium Articles**  
-- [Prompt Engineering 101](https://medium.com/@mridulrao674385/prompt-engineering-101-b65d207425bf)  
-- [Self-Supervised vs Autoregressive Learning](https://medium.com/@mridulrao674385/the-difference-between-self-supervised-and-autoregressive-learning-b7733ed9dedd)  
-- [Language Modelling on MPS using PyTorch](https://medium.com/@mridulrao674385/language-modelling-on-mps-using-pytorch-044a2dfd9f62)  
-- [Explainable AI: How to Trust Your AI Model](https://medium.com/@mridulrao674385/explainable-ai-how-to-trust-your-ai-model-72e39e293fa1)  
+## 📄 Publications  
+- **ICASIS 2023** – *Sentiment Analysis of User-Generated Data using CNN-BiLSTM*  
 
 ---
 
-## 📫 Contact Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mridul-rao-86b542190/)  
-- 📧 Email: mridulra@usc.edu  
+## ✍️ Writing  
+- **Medium:** https://medium.com/@mridulrao674385  
+- **X (Twitter):** https://x.com/MridulRao  
 
-💡 Always open to chatting about **AI agents, LLMs, and scalable backend systems** — or collaborating on exciting projects!  
+---
+
+## 📫 Connect With Me  
+- **LinkedIn:** https://www.linkedin.com/in/mridul-rao-86b542190/  
+- **Email:** mridulrao370@gmail.com  
+
+---
+
+### 💡 Always open to projects or conversations around:  
+**AI Agents • Telephony Pipelines • LLM Deployment • RAG • Real-Time Systems • GPU Inference • Edge AI**
