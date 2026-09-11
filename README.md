@@ -1,67 +1,114 @@
 # 👋 Hey, I'm **Mridul Rao**
 
-I'm an **AI Engineer** building real-time **voice-based AI agents**, advanced **LLM systems**, and **production-grade backend infrastructure**.  
-My work sits at the intersection of **machine learning, telephony (SIP/RTCP), scalable systems, and human–AI interaction** — designing agents that are fast, reliable, and actually useful in real-world environments.
+I'm an **AI Engineer focused on real-time AI systems, voice agents, and production-grade agent infrastructure**.
+
+I work at the intersection of **LLMs, real-time audio, telephony, distributed systems, and backend engineering** — building AI systems that need to operate reliably outside of a demo environment.
+
+A large part of my work involves designing **enterprise voice AI platforms**: connecting AI agents to existing telephony infrastructure, orchestrating real-time STT → LLM → TTS pipelines, building reliable tool-calling workflows, and optimizing systems for latency, concurrency, observability, and failure recovery.
 
 ---
 
-## 🧠 What I’m Working On  
-- 🎙️ Building **real-time voice AI agents** (SIP → STT → LLM → TTS pipelines) with sub-second latency  
-- 🤖 Designing **reliable agent architectures** with function calling, multi-agent coordination, memory, RAG, and error recovery  
-- ⚡ Deploying and optimizing **SLMs (4B–8B)** using vLLM on GPUs for production workloads  
-- 📞 Integrating with **telephony platforms** — LiveKit, BYOC SIP, websockets, webRTC, PBX/SBC — for scalable call automation  
-- 🧩 Experimenting with **LoRA fine-tuning**, **quantization (ONNX, AWQ)**, and **edge inference (Jetson Orin)**  
-- 🔍 Exploring observability for agents: structured logs, tracing, audio metrics, and latency debugging  
-- ✍️ Writing about AI engineering, model deployment, and building practical agent systems  
+## 🧠 What I'm Working On
+
+* 🎙️ Building **real-time voice AI agents** with sub-second conversational latency
+* 📞 Integrating AI agents with **enterprise telephony infrastructure** using SIP, RTP/SRTP, WebRTC, SBCs, PBXs, and contact-center platforms
+* 🏗️ Designing **reusable agent runtimes** for voice and chat with configurable workflows, tools, memory, and orchestration
+* 🤖 Building reliable **LLM agent systems** with structured tool calling, RAG, state management, retries, and error recovery
+* ⚡ Optimizing **real-time AI pipelines** for latency, concurrency, interruption handling, and streaming
+* 🌐 Building platform-agnostic integrations across **LiveKit, Five9, Genesys, NICE CXone, Vonage, and other telephony systems**
+* 🔍 Developing **observability for AI agents** — tracing latency across STT/LLM/TTS, token usage, call metrics, failures, and system health
+* 🧩 Experimenting with **SLMs, LoRA/PEFT, quantization, ONNX, vLLM, and edge inference**
+* 🖥️ Exploring **real-time translation and audio processing systems** using virtual audio devices, WebRTC, and AI agents
 
 ---
 
-## 🧩 Technical Stack  
+## 🧩 Technical Stack
 
 ### **Languages**
-Python • JavaScript • SQL • C/C++
 
-### **AI / ML / LLM Infra**
-PyTorch • Transformers • vLLM • ONNX • Hugging Face • TRL • LoRA/PEFT • KV-Caching  
-RAG systems • LlamaIndex • LanceDB • BM25 + Vector Hybrid Search  
+Python • JavaScript / TypeScript • SQL • C/C++
 
-### **Backend & Systems**
-FastAPI • Node.js  
-Redis • PostgreSQL • MySQL  
+### **AI / LLM Systems**
 
-### **Voice / Telephony / Realtime**
-LiveKit • WebRTC • Twilio • Genesys • Exotel  
-Noise suppression • VAD • SIP signaling • RTP pipelines  
+PyTorch • Hugging Face Transformers • vLLM • ONNX
+OpenAI • Azure AI • RAG • LlamaIndex • LanceDB
+LoRA / PEFT • Quantization • Tool Calling • Agent Orchestration
 
-### **DevOps & Deployment**
-Docker • Kubernetes • AWS (EC2, S3, EKS 🤏) • Azure • RunPod  
-Jetson Orin for edge inference  
-NGINX, reverse proxies, TLS, production environments  
+### **Voice / Realtime / Telephony**
 
----
+LiveKit • WebRTC • SIP • RTP / SRTP • WebSockets
+STT • TTS • VAD • Noise Suppression • DTMF
+SBC / PBX Integrations • BYOC Telephony
 
-## 🎓 Education  
-- **MS in Computer Science**, University of Southern California (USC)  
-- **BTech in Computer Science**, Graphic Era University  
+### **Contact Center & Communications**
 
----
+Five9 • Genesys • NICE CXone • Vonage • Twilio • Exotel
 
-## 📄 Publications  
-- **ICASIS 2023** – *Sentiment Analysis of User-Generated Data using CNN-BiLSTM*  
+### **Backend & Distributed Systems**
 
----
+FastAPI • Node.js
+Redis • Redis Streams • PostgreSQL • MySQL
+AsyncIO • Event-driven architectures • Real-time APIs
 
-## ✍️ Writing  
-- **Medium:** https://medium.com/@mridulrao674385  
-- **X (Twitter):** https://x.com/MridulRao  
+### **Infrastructure & DevOps**
 
----
+Docker • Kubernetes • AWS • Azure • RunPod
+NGINX • TLS • Reverse Proxies • Linux
+Jetson Orin • GPU Inference
 
-## 📫 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/mridul-rao/ 
-- **Email:** mridulrao370@gmail.com  
+### **Observability**
+
+Structured Logging • Distributed Tracing
+Latency / TTFT Monitoring • Token Metrics
+Call Analytics • Failure Tracking • System Health
 
 ---
 
-### 💡 Always open to projects or conversations around:  
-**AI Agents • Telephony Pipelines • LLM Deployment • RAG • Real-Time Systems • GPU Inference • Edge AI**
+## 🔬 Areas I'm Exploring
+
+I'm particularly interested in problems around:
+
+* **Enterprise Voice AI**
+* **Agent reliability & orchestration**
+* **Human ↔ AI real-time interaction**
+* **Multilingual voice systems**
+* **Low-latency model inference**
+* **AI-native contact centers**
+* **Edge AI & local inference**
+* **Agent observability and evaluation**
+
+---
+
+## 🎓 Education
+
+* **M.S. in Computer Science** — University of Southern California (USC)
+* **B.Tech in Computer Science** — Graphic Era University
+
+---
+
+## 📄 Publications
+
+**ICASIS 2023**
+*Sentiment Analysis of User-Generated Data using CNN-BiLSTM*
+
+---
+
+## ✍️ Writing
+
+I occasionally write about **AI engineering, voice agents, LLM infrastructure, and building production AI systems**.
+
+* **Medium:** https://medium.com/@mridulrao674385
+* **X:** https://x.com/MridulRao
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** https://www.linkedin.com/in/mridul-rao/
+* **Email:** [mridulrao370@gmail.com](mailto:mridulrao370@gmail.com)
+
+---
+
+### 💡 Always interested in conversations around
+
+**Voice AI • AI Agents • Real-Time Systems • Telephony • LLM Infrastructure • Agent Platforms • Distributed Systems • Edge AI**
